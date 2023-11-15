@@ -23,14 +23,18 @@ Voici la conception de mon projet :
 # Test des CRUDs
 # Article
 # GET
+![getarticle](https://github.com/WafaaK/WafaaExam/assets/147450674/fe603a93-d5cb-43af-a5f2-2062aeee6000)
 
 # POST
 
+![postarticle](https://github.com/WafaaK/WafaaExam/assets/147450674/6add9017-b06a-418e-8fae-9e362790ed69)
 
 # DELETE
 
+![deleteartcile](https://github.com/WafaaK/WafaaExam/assets/147450674/0ef559f5-5004-4289-862a-0dce24449373)
 
 # PUT
+![putarticle](https://github.com/WafaaK/WafaaExam/assets/147450674/76cffc36-0ceb-460c-a799-9b642ffc0a4f)
 
 
 # Categorie
@@ -44,10 +48,11 @@ Voici la conception de mon projet :
 
 
 # DELETE
-![hfew](https://github.com/WafaaK/WafaaExam/assets/147450674/07a5c9e0-de48-4e5f-aff5-17e9d19f529f)
-
+![deletectegorie](https://github.com/WafaaK/WafaaExam/assets/147450674/3a0425bd-8032-4b36-8b4e-50ef6c80dc4f)
 
 # PUT
+
+![puut](https://github.com/WafaaK/WafaaExam/assets/147450674/ede19bef-8454-4a68-b394-2d1a61f8499e)
 
 
 # Conclusion
