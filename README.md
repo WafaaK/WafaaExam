@@ -44,6 +44,7 @@ Voici la conception de mon projet :
 
 
 # DELETE
+![hfew](https://github.com/WafaaK/WafaaExam/assets/147450674/07a5c9e0-de48-4e5f-aff5-17e9d19f529f)
 
 
 # PUT
